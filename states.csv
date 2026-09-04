@@ -1,0 +1,51 @@
+code,name,annualKwh,retailRate,exportRate,exportFactor,nettingPeriod,creditExpiry,retailShare,costPerWatt,grossCost,incentives,netCost,srecPerMwh,extraAnnualCost,yearOneSaving,paybackSimple,paybackAccurate,netReturn25,verdict,rank,sourceUrl,checked
+IL,Illinois,8700,0.165,0.0726,0.44,instantaneous,annual,0.65,3.06,18360.0,10940.0,7420.0,0,0.0,1154.14,6.4,6.8,26376.0,excellent,1,https://illinoisshines.com/,2026-09-04
+DE,Delaware,8700,0.165,0.165,1.0,annual,annual,0.95,2.7,16200.0,4200.0,12000.0,0,0.0,1435.5,8.4,8.4,31388.0,good,2,https://depsc.delaware.gov/,2026-08-28
+NJ,New Jersey,8700,0.165,0.165,1.0,annual,annual,0.95,2.98,17880.0,0.0,17880.0,77,0.0,2105.4,8.5,8.6,41288.0,good,3,https://njcleanenergy.com/renewable-energy/programs/successor-solar-incentive-susi-program,2026-08-15
+MD,Maryland,8700,0.165,0.165,1.0,annual,never,0.95,2.88,17280.0,0.0,17280.0,56,0.0,1922.7,9.0,9.0,37585.0,good,4,https://www.psc.state.md.us/,2026-08-15
+NY,New York,8700,0.165,0.165,1.0,annual,annual,0.95,3.3,19800.0,6150.0,13650.0,0,101.52,1333.98,10.2,10.1,27200.0,good,5,https://www.nyserda.ny.gov/All-Programs/NY-Sun,2026-08-15
+MA,Massachusetts,8700,0.165,0.165,1.0,annual,annual,0.95,3.15,18900.0,1000.0,17900.0,30,0.0,1696.5,10.6,10.4,31636.0,good,6,https://www.mass.gov/info-details/smart-program-details,2026-08-15
+FL,Florida,8700,0.165,0.0413,0.25,annual,annual,0.95,2.45,14700.0,0.0,14700.0,0,0.0,1381.69,10.6,10.5,26854.0,good,7,https://www.floridapsc.com/,2026-08-13
+PA,Pennsylvania,8700,0.165,0.0924,0.56,annual,annual,0.95,2.93,17580.0,0.0,17580.0,28,0.0,1647.52,10.7,10.5,30470.0,good,8,https://www.puc.pa.gov/,2026-08-15
+NM,New Mexico,8700,0.165,0.165,1.0,annual,never,0.95,2.88,17280.0,1728.0,15552.0,0,0.0,1435.5,10.8,10.6,27836.0,good,9,https://www.emnrd.nm.gov/,2026-08-19
+SC,South Carolina,8700,0.165,0.0264,0.16,monthly,annual,0.85,2.85,17100.0,3500.0,13600.0,0,0.0,1254.63,10.8,10.7,23622.0,good,10,https://dor.sc.gov/,2026-08-13
+MN,Minnesota,8700,0.165,0.165,1.0,monthly,annual,0.85,3.11,18660.0,0.0,18660.0,30,0.0,1696.5,11.0,10.8,30876.0,good,11,https://www.revisor.mn.gov/statutes/cite/216B.164,2026-08-15
+CO,Colorado,8700,0.165,0.165,1.0,annual,never,0.95,2.75,16500.0,0.0,16500.0,0,0.0,1435.5,11.5,12.2,26888.0,marginal,12,https://www.xcelenergy.com/programs_and_rebates/residential_programs_and_rebates/renewable_energy_programs/net_energy_metering,2026-08-14
+IA,Iowa,8700,0.165,0.165,1.0,instantaneous,annual,0.65,2.85,17100.0,0.0,17100.0,0,0.0,1435.5,11.9,12.5,26288.0,marginal,13,https://www.midamericanenergy.com/customer-interconnection,2026-08-11
+OR,Oregon,8700,0.165,0.165,1.0,monthly,annual,0.85,2.85,17100.0,0.0,17100.0,0,0.0,1435.5,11.9,12.5,26288.0,marginal,14,https://regulations.justia.com/states/oregon/chapter-860/division-39/section-860-039-0055,2026-08-11
+WA,Washington,8700,0.165,0.165,1.0,annual,annual,0.95,2.86,17160.0,0.0,17160.0,0,0.0,1435.5,12.0,12.5,26228.0,marginal,15,https://www.utc.wa.gov/,2026-08-28
+UT,Utah,8700,0.165,0.0528,0.32,monthly,annual,0.85,2.78,16680.0,1600.0,15080.0,0,0.0,1289.08,11.7,12.6,23317.0,marginal,16,https://psc.utah.gov/,2026-08-26
+KY,Kentucky,8700,0.165,0.0858,0.52,monthly,never,0.85,2.66,15960.0,0.0,15960.0,0,0.0,1332.14,12.0,12.7,23905.0,marginal,17,https://psc.ky.gov/,2026-09-04
+MS,Mississippi,8700,0.165,0.0677,0.41,instantaneous,none,0.65,2.77,16620.0,3500.0,13120.0,0,0.0,1139.22,11.5,12.7,20168.0,marginal,18,https://www.psc.ms.gov/,2026-09-04
+AR,Arkansas,8700,0.165,0.0462,0.28,monthly,annual,0.85,2.54,15240.0,0.0,15240.0,0,0.0,1280.47,11.9,12.8,22863.0,marginal,19,https://www.apscservices.info/,2026-08-26
+MT,Montana,8700,0.165,0.165,1.0,annual,annual,0.95,2.94,17640.0,0.0,17640.0,0,0.0,1435.5,12.3,12.8,25748.0,marginal,20,https://psc.mt.gov/,2026-08-28
+VT,Vermont,8700,0.165,0.165,1.0,annual,annual,0.95,2.94,17640.0,0.0,17640.0,0,0.0,1435.5,12.3,12.8,25748.0,marginal,21,https://puc.vermont.gov/,2026-08-28
+VA,Virginia,8700,0.165,0.0611,0.37,annual,annual,0.95,2.85,17100.0,0.0,17100.0,0,0.0,1390.3,12.3,12.9,24748.0,marginal,22,http://www.dominionenergy.com/en/Virginia/Renewable-Energy-Programs/Net-Metering,2026-08-13
+NV,Nevada,8700,0.165,0.1237,0.75,monthly,never,0.85,2.85,17100.0,0.0,17100.0,0,0.0,1381.6,12.4,13.0,24451.0,marginal,23,https://puc.nv.gov/Renewable_Energy/Net_Metering/,2026-08-11
+WV,West Virginia,8700,0.165,0.132,0.8,annual,annual,0.95,2.95,17700.0,0.0,17700.0,0,0.0,1421.15,12.5,13.0,25199.0,marginal,24,https://psc.state.wv.us/,2026-09-04
+RI,Rhode Island,8700,0.165,0.132,0.8,monthly,annual,0.85,2.92,17520.0,0.0,17520.0,0,0.0,1392.43,12.6,13.1,24400.0,marginal,25,https://ripuc.ri.gov/,2026-08-28
+ME,Maine,8700,0.165,0.165,1.0,annual,annual,0.95,3.05,18300.0,0.0,18300.0,0,0.0,1435.5,12.7,13.2,25088.0,marginal,26,https://www.maine.gov/mpuc/,2026-08-19
+NE,Nebraska,8700,0.165,0.0363,0.22,monthly,annual,0.85,2.95,17700.0,2000.0,15700.0,0,0.0,1267.55,12.4,13.2,21963.0,marginal,27,https://www.oppd.com/,2026-08-26
+NH,New Hampshire,8700,0.165,0.1138,0.69,annual,never,0.95,3.03,18180.0,0.0,18180.0,0,0.0,1413.23,12.9,13.3,24449.0,marginal,28,https://www.puc.nh.gov/,2026-08-28
+OH,Ohio,8700,0.165,0.0924,0.56,monthly,annual,0.85,2.9,17400.0,0.0,17400.0,3,0.0,1366.86,12.7,13.3,23373.0,marginal,29,https://puco.ohio.gov/,2026-08-13
+AZ,Arizona,8700,0.165,0.0677,0.41,instantaneous,annual,0.65,2.5,15000.0,1000.0,14000.0,0,0.0,1139.22,12.3,13.4,19288.0,marginal,30,https://www.azcc.gov/,2026-08-13
+WI,Wisconsin,8700,0.165,0.0297,0.18,monthly,monthly,0.85,3.05,18300.0,2400.0,15900.0,0,0.0,1258.93,12.6,13.4,21469.0,marginal,31,https://psc.wi.gov/,2026-08-13
+MO,Missouri,8700,0.165,0.0429,0.26,monthly,annual,0.85,2.73,16380.0,0.0,16380.0,0,0.0,1276.16,12.8,13.5,21576.0,marginal,32,https://psc.mo.gov/,2026-08-26
+NC,North Carolina,8700,0.165,0.0413,0.25,monthly,annual,0.85,2.78,16680.0,0.0,16680.0,0,0.0,1274.07,13.1,13.7,21205.0,marginal,33,https://www.ncuc.gov/,2026-08-28
+AK,Alaska,8700,0.165,0.0413,0.25,monthly,never,0.85,2.85,17100.0,0.0,17100.0,0,0.0,1274.07,13.4,14.0,20785.0,marginal,34,https://rca.alaska.gov/RCAWeb/,2026-08-11
+OK,Oklahoma,8700,0.165,0.0363,0.22,monthly,none,0.85,2.85,17100.0,0.0,17100.0,0,0.0,1267.55,13.5,14.1,20563.0,marginal,35,https://oklahoma.gov/occ/divisions/public-utility/energy/electric-utility/netmetering.html,2026-08-11
+KS,Kansas,8700,0.165,0.0264,0.16,monthly,annual,0.85,2.85,17100.0,0.0,17100.0,0,0.0,1254.63,13.6,14.2,20122.0,marginal,36,https://www.kcc.ks.gov/electric/net-metering,2026-08-11
+WY,Wyoming,8700,0.165,0.165,1.0,annual,annual,0.95,3.35,20100.0,0.0,20100.0,0,0.0,1435.5,14.0,14.2,23288.0,marginal,37,https://psc.wyo.gov/,2026-09-04
+HI,Hawaii,8700,0.165,0.0528,0.32,monthly,annual,0.85,4.25,25500.0,6487.5,19012.5,0,0.0,1289.08,14.7,15.0,19384.0,marginal,38,https://tax.hawaii.gov/geninfo/renewable/,2026-08-26
+TX,Texas,8700,0.165,0.0825,0.5,instantaneous,never,0.65,2.85,17100.0,0.0,17100.0,0,0.0,1184.29,14.4,15.0,17724.0,marginal,39,https://www.puc.texas.gov/consumer/facts/factsheets/elecfacts/Solar.aspx,2026-08-13
+CT,Connecticut,8700,0.165,0.165,1.0,monthly,annual,0.85,2.88,17280.0,0.0,17280.0,0,349.74,1085.76,15.9,15.4,17870.0,marginal,40,https://portal.ct.gov/pura,2026-08-19
+GA,Georgia,8700,0.165,0.0759,0.46,instantaneous,annual,0.65,2.95,17700.0,0.0,17700.0,0,0.0,1164.19,15.2,15.6,16439.0,marginal,41,https://psc.ga.gov/,2026-08-19
+ID,Idaho,8700,0.165,0.0462,0.28,instantaneous,annual,0.65,2.91,17460.0,820.0,16640.0,0,0.0,1073.75,15.5,16.0,14416.0,marginal,42,https://puc.idaho.gov/,2026-08-26
+ND,North Dakota,8700,0.165,0.0314,0.19,monthly,monthly,0.85,3.6,21600.0,0.0,21600.0,0,0.0,1261.15,17.1,16.8,15845.0,marginal,43,https://www.psc.nd.gov/,2026-08-28
+MI,Michigan,8700,0.165,0.0577,0.35,instantaneous,never,0.65,3.13,18780.0,0.0,18780.0,0,0.0,1108.77,16.9,17.0,13470.0,marginal,44,https://www.michigan.gov/mpsc,2026-08-15
+IN,Indiana,8700,0.165,0.0363,0.22,instantaneous,never,0.65,3.02,18120.0,0.0,18120.0,0,0.0,1043.61,17.4,17.5,11908.0,marginal,45,https://www.aesindiana.com/solar-faqs,2026-08-15
+LA,Louisiana,8700,0.165,0.0297,0.18,instantaneous,annual,0.65,2.94,17640.0,0.0,17640.0,0,0.0,1023.51,17.2,17.5,11703.0,marginal,46,http://www.lpsc.louisiana.gov/,2026-08-19
+SD,South Dakota,8700,0.165,0.0429,0.26,instantaneous,none,0.65,3.15,18900.0,0.0,18900.0,0,0.0,1063.71,17.8,17.7,11813.0,marginal,47,https://puc.sd.gov/,2026-09-04
+TN,Tennessee,8700,0.165,0.0281,0.17,instantaneous,annual,0.65,3.0,18000.0,0.0,18000.0,0,0.0,1018.64,17.7,17.8,11177.0,marginal,48,https://www.tva.com/energy/technology-innovation/green-connect,2026-08-28
+CA,California,8700,0.165,0.0198,0.12,instantaneous,annual,0.45,2.8,16800.0,0.0,16800.0,0,0.0,740.72,22.7,22.5,2902.0,no,49,https://www.cpuc.ca.gov/,2026-08-15
+AL,Alabama,8700,0.165,0.0396,0.24,instantaneous,none,0.65,3.33,19980.0,0.0,19980.0,0,389.52,664.14,30.1,24.5,653.0,no,50,https://www.alabamapower.com/,2026-09-04
