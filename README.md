@@ -1,5 +1,7 @@
 # US residential solar payback by state
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22305313.svg)](https://doi.org/10.5281/zenodo.22305313)
+
 Break-even periods for a 6 kW residential solar system in all 50 US states,
 calculated with **no federal tax credit** following the expiry of Section 25D on
 31 December 2025.
